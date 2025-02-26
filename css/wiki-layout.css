@@ -96,8 +96,6 @@ div.gallery {
     object-fit: cover;
 }
 
-
-
 section::after {
     content: "";
     display: block;
