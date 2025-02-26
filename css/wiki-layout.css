@@ -103,12 +103,11 @@ aside h2 {
 }
 
 .profile-image {
-  background-image: url("/images/profile.jpg");
+  background-image: url("../images/profile.jpg");
   background-size: 120%;
   background-position: top center;
   width: var(--aside-width);
   height: var(--aside-width);
-
   text-indent: -1000rem;
 }
 
